@@ -8,7 +8,7 @@ SUBSCRIBE MY YOUTUBE CHANNEL
 </h2>
 
 
-[![A Silent Voice X Kya Mujhe Pyar Hai](https://img.youtube.com/vi/bC65YELMZwY/0.jpg)](https://m.youtube.com/watch?v=bC65YELMZwY)
+[![A Silent Voice X Kya Mujhe Pyar Hai](https://img.youtube.com/vi/6yytLxJ2I-U/0.jpg)](https://m.youtube.com/watch?v=6yytLxJ2I-U)
 
 
 <h2 align="center">
