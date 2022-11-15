@@ -12,5 +12,3 @@ jobs:
       - uses: ikx7a/YouTube@main
         with:
           channel_id: UC9o1hM49jVr2lgOinw0pAdw
-
-ㅤ
