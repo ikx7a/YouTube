@@ -23,8 +23,9 @@
 
 <h5> Popular Videos </h5>
 
-- #1 <a href="https://youtu.be/z52i5FfocqI"> #1 </a>
-- #2 <a href=""></a>
-- #3 <a href=""></a> 
-- #4 <a href=""></a>
-- #5 <a href=""></a>
+- <a href="https://youtu.be/z52i5FfocqI">#1 Arcade X Milne Hai Mujhe Aayi</a>
+- <a href="https://youtu.be/RxrKuso8jnM">#2 Agar Tum Sath Ho</a>
+- <a href="https://youtu.be/T8LCMQPI22c">#3 Your Name X Aaja We Mahiya</a> 
+- <a href="https://youtu.be/ggcC77Z3zaM">#4 Tera Yaar Hoon Main</a>
+- <a href="https://youtu.be/bC65YELMZwY">#5 A Silent Voice X Kya Mujhe Pyar Hai</a>
+- <a href=""> More </a>
