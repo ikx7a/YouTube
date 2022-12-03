@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
 
-[![YouTube](https://img.shields.io/badge/ʏᴏᴜᴛᴜʙᴇ-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC9o1hM49jVr2lgOinw0pAdw)
+[![YouTube](https://img.shields.io/badge/Subscribe-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC9o1hM49jVr2lgOinw0pAdw)
 
 </h1>
 
