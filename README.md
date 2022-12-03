@@ -2,7 +2,7 @@
     ─「 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 」─
 </h3>
 
-<img src="">
+<img src="https://github.com/ikx7a/YouTube/blob/main/resources/YouTube-Channel.png">
 
 <div align="center">
 𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘔𝘺 𝘠𝘰𝘶𝘵𝘶𝘣𝘦 𝘊𝘩𝘢𝘯𝘯𝘦𝘭
