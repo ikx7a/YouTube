@@ -23,6 +23,8 @@
 
 <h5> Popular Videos </h5>
 
+> Every Sunday Manually Update
+
 - <a href="https://youtu.be/z52i5FfocqI">#1 Arcade X Milne Hai Mujhe Aayi</a>
 - <a href="https://youtu.be/RxrKuso8jnM">#2 Agar Tum Sath Ho</a>
 - <a href="https://youtu.be/T8LCMQPI22c">#3 Your Name X Aaja We Mahiya</a> 
