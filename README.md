@@ -2,16 +2,12 @@
     ─「 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 」─
 </h3>
 
-<img src="https://github.com/ikx7a/YouTube/blob/main/resources/YouTube-Channel.png">
-
 <div align="center">
-𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘔𝘺 𝘠𝘰𝘶𝘵𝘶𝘣𝘦 𝘊𝘩𝘢𝘯𝘯𝘦𝘭
-</div>
-<h1 align="center">
+
+<img src="https://github.com/ikx7a/YouTube/blob/main/resources/YouTube-Channel.png">
 
 [![YouTube](https://img.shields.io/badge/Subscribe-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC9o1hM49jVr2lgOinw0pAdw)
 
-</h1>
 </div>
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- Resource/Reference: https://github.com/DenverCoder1/custom-icon-badges -->
