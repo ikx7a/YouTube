@@ -31,3 +31,9 @@
 - <a href="https://youtu.be/ggcC77Z3zaM">#4 Tera Yaar Hoon Main</a>
 - <a href="https://youtu.be/bC65YELMZwY">#5 A Silent Voice X Kya Mujhe Pyar Hai</a>
 - <a href="https://github.com/ikx7a/YouTube/tree/main/YouTube%20Videos"> More Videos</a>
+
+<div align="center">
+<a href="https://github.com/ikx7a/ikx7a"><img width="32px" alt="Patreon" title="Home" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/icons8-home-94.png"/></a>
+
+**Back To Home Page**
+</div>
