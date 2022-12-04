@@ -34,6 +34,6 @@
 
 <div align="center">
 
-[![Home](https://custom-icon-badges.demolab.com/badge/Home-Page-blue.svg?logo=home&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie)
+[![Home](https://custom-icon-badges.demolab.com/badge/Home-Page-blue.svg?logo=home&logoColor=white)](https://github.com/ikx7a)
 
 </div>
