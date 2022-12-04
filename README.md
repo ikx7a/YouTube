@@ -33,7 +33,7 @@
 - <a href="https://github.com/ikx7a/YouTube/tree/main/YouTube%20Videos"> More Videos</a>
 
 <div align="center">
-<a href="https://github.com/ikx7a/ikx7a"><img width="32px" alt="Patreon" title="Home" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/icons8-home-94.png"/></a>
 
-**Back To Home Page**
+[![Home](https://custom-icon-badges.demolab.com/badge/Home-Page-blue.svg?logo=home&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie)
+
 </div>
