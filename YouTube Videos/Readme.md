@@ -21,7 +21,7 @@
 - <a href="https://youtu.be/z52i5FfocqI"> #01 Arcade X Milne Hai Mujhse Aayi</a>
 
 <div align="center">
-<a href="https://github.com/ikx7a/YouTube"><img width="32px" alt="Patreon" title="Home" src="https://github.com/ikx7a/ikx7a/blob/main/Photos/icons8-home-94.png"/></a>
 
-**Back To Home Page**
+[![Home](https://custom-icon-badges.demolab.com/badge/Home-Page-blue.svg?logo=home&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie)
+
 </div>
