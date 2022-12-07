@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ikx7a/YouTube/blob/main/resources/YouTube-Channel.png">
+[![Cover](https://github.com/ikx7a/YouTube/blob/main/resources/YouTube-Channel.png)](https://github.com/ikx7a/YouTube)
 
 [![YouTube](https://img.shields.io/badge/Subscribe-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC9o1hM49jVr2lgOinw0pAdw)
 
