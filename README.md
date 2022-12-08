@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Cover](https://github.com/ikx7a/YouTube/blob/main/resources/YouTube-Channel.png)](https://github.com/ikx7a/YouTube)
+[![Cover](https://github.com/ikx7a/YouTube/blob/main/resources/YouTube%20Channel.png)](https://github.com/ikx7a/YouTube)
 </div>
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- Resource/Reference: https://github.com/DenverCoder1/custom-icon-badges -->
