@@ -32,3 +32,12 @@
 [![Home](https://custom-icon-badges.demolab.com/badge/Home-Page-blue.svg?logo=home&logoColor=white)](https://github.com/ikx7a)
 
 </div>
+  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
+
+  <!-- prettier-ignore-start -->
+  <!-- BEGIN YOUTUBE-CARDS -->
+
+<a href="https://www.youtube.com/watch?v=6yytLxJ2I-U"><img src="https://ytcards.demolab.com/?id=6yytLxJ2I-U&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%370d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=16" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
+
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
